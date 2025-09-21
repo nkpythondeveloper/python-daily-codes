@@ -1,0 +1,6 @@
+# ignore uploading these to git
+
+__pycache__
+*.pyc
+
+.DS_STORE
